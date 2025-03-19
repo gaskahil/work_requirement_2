@@ -1,0 +1,2 @@
+# Sample JSON data
+json_data = '{"name": "Alice", "age": 30, "city": "Los Angeles"}'
